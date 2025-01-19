@@ -24,13 +24,10 @@ Welcome to the **Python Code Obfuscator**! This tool allows you to obfuscate you
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Loorwow/python_obfuscator/edit/main/README.md
+   git clone https://github.com/Loorwow/python_obfuscator.git
    cd python-obfuscator
 Install dependencies (PyInstaller is optional):
 
-bash
-Copy
-Edit
 pip install pyinstaller
 Run the obfuscator:
 
